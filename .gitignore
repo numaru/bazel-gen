@@ -1,0 +1,10 @@
+# bazel
+bazel-*
+**/bazel-*
+
+# bazel-remote-cache
+platforms/cache
+
+# vscode
+.vscode/*
+.vscode

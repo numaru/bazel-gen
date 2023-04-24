@@ -1,0 +1,2 @@
+build --remote_cache=http://127.0.0.1:9090
+build --experimental_guard_against_concurrent_changes

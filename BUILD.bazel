@@ -1,0 +1,6 @@
+load("//img_conv:img_conv.bzl", "img_conv")
+
+img_conv(
+    name = "main",
+    srcs = glob(["src/**/*.json"]),
+)

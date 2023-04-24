@@ -1,0 +1,5 @@
+py_binary(
+    name="img_conv",
+    srcs=["img_conv.py"],
+    visibility=["//visibility:public"],
+)
